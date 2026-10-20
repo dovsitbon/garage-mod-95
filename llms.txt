@@ -1,0 +1,28 @@
+# Garage Mod 95
+
+> Garage automobile indépendant à Sarcelles (95200, Val-d’Oise, France) : mécanique générale, diagnostic électronique toutes marques, révision constructeur, freinage, distribution, pneumatiques, vidange et carrosserie. Les demandes de devis se font via WhatsApp, et le montant est validé par écrit avant toute intervention.
+
+## Informations pratiques
+
+- Adresse : Sarcelles (95200), Val-d’Oise, France
+- Téléphone et WhatsApp : +33 7 66 33 84 72
+- Horaires : lundi à vendredi 8h30–19h, samedi 9h–17h, fermé le dimanche
+- Communes desservies : Sarcelles, Garges-lès-Gonesse, Villiers-le-Bel, Arnouville, Saint-Brice-sous-Forêt, Groslay, Écouen
+- Véhicules : essence et diesel, toutes marques
+
+## Prestations
+
+- [Diagnostic électronique et recherche de pannes](https://garage-mod-95.vercel.app/#expertises) : lecture et effacement des codes défaut (OBD-II), valeurs moteur en temps réel, contrôle des capteurs et faisceaux, ABS, airbags, climatisation, boîte
+- [Entretien et révision constructeur](https://garage-mod-95.vercel.app/#expertises) : vidange, filtres, bougies, niveaux ; carnet tamponné, garantie constructeur préservée (règlement UE n° 461/2010)
+- [Freinage, amortisseurs et liaisons au sol](https://garage-mod-95.vercel.app/#expertises) : plaquettes, disques, purge, amortisseurs, rotules, silentblocs
+- [Distribution, moteur et embrayage](https://garage-mod-95.vercel.app/#expertises) : kit de distribution, pompe à eau, embrayage, volant moteur bimasse
+- [Pneumatiques et géométrie](https://garage-mod-95.vercel.app/#expertises) : montage, équilibrage, crevaison, parallélisme, capteurs de pression
+- [Carrosserie](https://garage-mod-95.vercel.app/#expertises) : pare-chocs, rayures, optiques ; premier devis sur photos
+
+## Devis
+
+- [Demande de devis ou diagnostic express](https://garage-mod-95.vercel.app/#devis) : formulaire qui ouvre WhatsApp avec la demande pré-remplie (véhicule, immatriculation facultative, service, description, nom, téléphone)
+
+## Questions fréquentes
+
+- [FAQ](https://garage-mod-95.vercel.app/#faq) : garantie constructeur, voyant moteur, durée d’un diagnostic, marques prises en charge, devis, plaquettes de frein

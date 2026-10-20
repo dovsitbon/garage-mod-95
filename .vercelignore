@@ -1,0 +1,9 @@
+# Outils de build : seul le site statique est publié
+node_modules
+src
+scripts
+package.json
+package-lock.json
+tailwind.config.js
+README.md
+.claude

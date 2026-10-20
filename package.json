@@ -1,0 +1,12 @@
+{
+  "name": "garage-mod-95",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine du Garage Mod 95 — mécanique et diagnostic à Sarcelles (95200).",
+  "scripts": {
+    "css": "node scripts/build-css.mjs"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.17"
+  }
+}
