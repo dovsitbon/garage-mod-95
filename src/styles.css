@@ -10,7 +10,7 @@
   font-style: normal;
   font-weight: 400 900;
   font-stretch: 100% 125%;
-  font-display: swap;
+  font-display: optional;
   src: url(/fonts/archivo-var-latin.woff2) format('woff2');
 }
 @font-face {
